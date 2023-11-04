@@ -1,10 +1,10 @@
 # Data Structures and Algorithms Repository
 
-Welcome to your go-to resource for learning and mastering Data Structures and Algorithms. This repository is structured to guide you through various concepts and implementations in a clear, practical, and efficient manner.
+This is my collection of labs and projects for data structures and algorithms over the last few years.
 
 ## Description
 
-This repository contains a collection of examples, exercises, and project implementations related to Data Structures and Algorithms. Whether you're a student, a professional brushing up on fundamentals, or an enthusiast eager to learn more about computer science principles, you'll find valuable resources here.
+This repository contains a collection of examples, exercises, and project implementations related to Data Structures and Algorithms.
 
 ## Contents
 
