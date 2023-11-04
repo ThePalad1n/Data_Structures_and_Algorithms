@@ -8,11 +8,6 @@ This repository contains a collection of examples, exercises, and project implem
 
 ## Contents
 
-- **Introduction**
-  - Overview of Data Structures and Algorithms
-  - Importance in Software Development
-  - Basic Concepts
-
 - **Data Structures**
   - Arrays
   - Linked Lists
@@ -39,23 +34,10 @@ This repository contains a collection of examples, exercises, and project implem
   - Dynamic Programming
   - And more...
 
-- **Practice Problems**
-  - Easy
-  - Medium
-  - Hard
-
 - **Resources**
   - Books
   - Online Courses
   - Websites
-
-## How to Use This Repository
-
-1. Start by reading the `Introduction` to understand the basic concepts.
-2. Move on to the `Data Structures` section to learn about different data structures. Each folder contains a README with explanations and subdirectories with implementations and exercises.
-3. Explore the `Algorithms` section similarly, understanding the theory and then diving into the code examples.
-4. Challenge yourself with the `Practice Problems` to test your knowledge and skill.
-5. Utilize the `Resources` section for additional learning materials and references.
 
 ## Contributing
 
